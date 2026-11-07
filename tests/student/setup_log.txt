@@ -1,0 +1,4 @@
+Note: /mnt/data/DAA_Assignment_4_Java17/Java/source/Main.java uses unchecked or unsafe operations.
+Note: Recompile with -Xlint:unchecked for details.
+Language: Java
+PASS setup: ping

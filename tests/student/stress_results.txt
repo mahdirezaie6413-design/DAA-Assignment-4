@@ -1,0 +1,8 @@
+PASS LCS maximum 1000x1000: 0.066s, 2029 request bytes, 1030 result bytes; verified optimality/witness or exact results
+PASS Merge 200 adjacent 1e9 blocks: 0.059s, 2227 request bytes, 2488 result bytes; verified optimality/witness or exact results
+PASS Tree deep chain 100000 vertices: 0.192s, 2527819 request bytes, 294484 result bytes; verified optimality/witness or exact results
+PASS KMP max 200000 text / 100000 pattern: 0.145s, 300038 request bytes, 588913 result bytes; verified optimality/witness or exact results
+PASS RK max 10000 x 2000 product: 0.048s, 12037 request bytes, 17 result bytes; verified optimality/witness or exact results
+PASS Suffix 50000 identical chars: 0.134s, 50028 request bytes, 627810 result bytes; verified optimality/witness or exact results
+PASS Aho max 10000x10 dictionary / 100x2000 text: 0.325s, 330338 request bytes, 2000213 result bytes; verified optimality/witness or exact results
+PASS Aho 10000 dense duplicates / 200000 text: 0.104s, 285041 request bytes, 70015 result bytes; verified optimality/witness or exact results
